@@ -1,0 +1,26 @@
+
+.nav-footer{
+ margin-top: 1rem;
+    background-color: black;
+    height: 140px;
+    width: 100%;
+    position: relative;
+}
+.nav-footer img{
+  position: absolute;
+  left: 45.5%;
+ margin-top: 2rem;
+   
+   }
+
+
+.nav-footer p{
+    display: flex;
+    justify-content: center;
+   color: white;
+   position:absolute;
+  margin-top: 6rem;
+   left: 43%;
+   }
+
+

@@ -1,0 +1,25 @@
+.Erreur-404{
+    display: flex;
+    justify-content: center;
+    color: #FF6060;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+
+.Erreur-Oops{
+    display: flex;
+    justify-content: center;
+    color: #FF6060;
+    margin-top: -9rem;
+
+}
+.nav-links-Erreur{
+    display: flex;
+    justify-content: center;
+    color: #FF6060;
+    margin-bottom: 2rem;
+    margin-top: 6rem;
+    text-decoration: none;
+
+}
