@@ -28,12 +28,46 @@ const About = () => { //useEffect  nous permettra de déclencher le fetch;
                     <div 
                          key={index} label={DataApropos.label}  >
                              <p>{DataApropos.text}</p>
+
+
+                             
                      </div>
                     
                     
                  ))}
+     
+        <select>
+          <option value={''}>
+            Fiabilité
+          </option>
+          </select>
+
+        
+          <select>
+          <option value={''}>
+            Respect
+          </option>
+          </select>
+
+          <select>
+          <option value={''}>
+           Service
+          </option>
+          </select>
+
+          <select>
+          <option value={''}>
+           Sécurité
+          </option>
+          </select>
+        
+       
+
+
 
          </div>
+
+         
      );
  };
  
